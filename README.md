@@ -1,4 +1,4 @@
 - 安卓：/data/data/com.tencent.mm/MicroMsg/{{user哈希值}}/appbrand/pkg/
 - iOS越狱：/User/Containers/Data/Application/{{系统UUID}}/Library/WechatPrivate/{{user哈希值}}/WeApp/LocalCache/release/
-- Windows：C:\Users\{{系统用户名}}\Documents\WeChat Files\Applet\
-- macOS： /Users/{{系统用户名}}/Library/Containers/com.tencent.xinWeChat/Data/Library/Containers/com.tencent.xinWeChat/Data/Library/Caches/com.tencent.xinWeChat/2.0b4.0.9/{{user哈希值}}/WeApp/LocalCache/release/
+- Windows：C:\Users\{{系统用户名}}\Documents\WeChat Files\Applet
+- ~~macOS： /Users/{{系统用户名}}/Library/Containers/com.tencent.xinWeChat/Data/Library/Containers/com.tencent.xinWeChat/Data/Library/Caches/com.tencent.xinWeChat/2.0b4.0.9/{{user哈希值}}/WeApp/LocalCache/release/~~(新版失效了，还没找到，欢迎pr)

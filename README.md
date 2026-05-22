@@ -6,3 +6,4 @@
 - iOS越狱：/User/Containers/Data/Application/{{系统UUID}}/Library/WechatPrivate/{{user哈希值}}/WeApp/LocalCache/release/
 - Windows：C:\Users\{{系统用户名}}\Documents\WeChat Files\Applet
 - macOS： /Users/{{系统用户名}}/Library/Group Containers/5A4RE8SF68.com.tencent.xinWeChat/Library/Caches/xinWeChat/{{user哈希值}}/WeApp/LocalCache/release
+- macOS: /Users/{{系统用户名}}/Library/Containers/com.tencent.xinWeChat/Data/.wxapplet/packages
